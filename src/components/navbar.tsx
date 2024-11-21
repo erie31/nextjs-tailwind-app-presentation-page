@@ -76,7 +76,7 @@ export function Navbar() {
        
         <IconButton
           variant="text"
-          color={isScrolling ? "gray" : "white"}
+          color={isScrolling ? "gray" : "green"}
           onClick={handleOpen}
           className="ml-auto inline-block lg:hidden"  placeholder={undefined} onPointerEnterCapture={undefined} onPointerLeaveCapture={undefined}        >
           {open ? (
