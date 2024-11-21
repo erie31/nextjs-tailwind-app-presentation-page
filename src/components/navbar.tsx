@@ -61,7 +61,7 @@ export function Navbar() {
       fullWidth
       shadow={false}
       blurred={false}
-      color={isScrolling ? "green" : "transparent"}
+      color={isScrolling ? "white" : "transparent"}
       className="fixed top-0 z-50 border-0"  placeholder={undefined} onPointerEnterCapture={undefined} onPointerLeaveCapture={undefined}    >
       <div className="container mx-auto flex items-center justify-between">
         <Typography
