@@ -69,7 +69,7 @@ export function Navbar() {
           href="https://linktr.ee/DotDager"
           target="_blank"
           variant="h6"
-          color={isScrolling ? "gray" : "white"}  placeholder={undefined} onPointerEnterCapture={undefined} onPointerLeaveCapture={undefined}        >
+          color={isScrolling ? "gray" : "green"}  placeholder={undefined} onPointerEnterCapture={undefined} onPointerLeaveCapture={undefined}        >
           Mr. Dot Dager
         </Typography>
         
